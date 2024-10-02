@@ -17,7 +17,7 @@ Hello there! 👋 I'm Roberto, but everyone call me Robert. I'm a passionate Bac
 
 When I'm not busy learning new stuff you can find me indulging in a variety of interests. I enjoy learning (not neccesary IT stuff) but also readying fantasy books, go walk with my dog, cooking for me and my dog, or trying to learn new languages (french going really hard). 🍲🧶💻
 
-I just got my degree in Software Development Engineering! 📚💡
+I just got my degree in Software Development Engineering! 📚💡 (2024)
 
 Gaming is another realm where I find joy and excitement. From story telling adventures to strategic, count me in! 🎮🕹️
 
