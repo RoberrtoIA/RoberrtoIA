@@ -10,7 +10,9 @@ Hello there! 👋 I'm Roberto, but everyone call me Robert. I'm a passionate Bac
 
 - **Languages:** English 🇺🇸, Spanish 🇸🇵
 - **Frontend:** HTML, CSS, Bootstrap, Halfmoon
-- **Backend:** PHP, Laravel, AWS, Nodejs
+- **Backend:** PHP, Laravel, AWS, Nodejs, Nestjs
+- **SQL:** SQL Server, MySQL, PostgreSQL
+- **Docker**
 
 ## 👨🏻‍💻 About Me
 
